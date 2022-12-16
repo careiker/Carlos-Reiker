@@ -1,7 +1,5 @@
-### olá pessoal 👋 / Hi there 👋
+### Olá pessoal 👋 / Hi there 👋
 
-<!--
-**Carlos-Reiker/Carlos-Reiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - I'm 23 years old
@@ -10,4 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I'm looking for help using frameworks and libraries...
 - 📫 How to reach me: https://www.linkedin.com/in/carlosreiker/...
 - ⚡ Fun fact: I like to listen to ABBA and the Bee Gees...
--->
+
